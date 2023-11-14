@@ -19,7 +19,7 @@ https://crypto.stanford.edu/pbc/manual.pdf
 The parameters of this pairing are given in the file  "a.param"
 
 The hash function considered for mapping from the message space to the prime field space is the Identity Map.
-The parameter B for the public key can be modified form the file Global.h
+The parameter B for the public key can be modified form the file Param.cpp
 
 The DPP algorithm used is the one of "https://www.researchgate.net/publication/221425410_Fully_Collusion_Secure_Dynamic_Broadcast_Encryption_with_Constant-Size_Ciphertexts_or_Decryption_Keys"
 
